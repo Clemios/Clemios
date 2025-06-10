@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working @Plezi
 - 🌱 I’m currently learning Ruby & Go
-- 💬 Ask me about React or any complex front-end topic
+- 💬 Ask me about any complex web topic
 - ⚡ Fun fact: I also love Agile methods, AWS and NodeJS
 
